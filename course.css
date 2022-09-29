@@ -1,0 +1,17 @@
+ body{
+    background-color: rgb(185, 140, 140);
+ }
+
+ *{
+    text-align: center;
+ }
+ p{
+   border-color: blue;
+    border-style: solid;
+    border-width: thick;
+ }
+
+ h1{
+   background-color: rgb(63, 903, 40);
+   
+ }
